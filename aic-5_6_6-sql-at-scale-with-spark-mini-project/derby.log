@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Apr 01 01:28:37 UTC 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0171-335a-c055-000014683398 
+on database directory /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/metastore_db with class loader sun.misc.Launcher$AppClassLoader@4b1210ee 
+Loaded from file:/opt/spark-2.4.0-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-b11
+user.dir=/mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project
+os.name=Linux
+os.arch=amd64
+os.version=3.13.0-153-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
